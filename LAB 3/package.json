@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "npm demo start",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i"
+  },
+  "author": "vishal",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "react": "^19.2.0"
+  }
+}
